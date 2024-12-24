@@ -55,7 +55,7 @@ int minChanges(string s){
 }
 
 
-int main(){
+int main(){ 
     cout<<minChanges("1001")<<endl;
 
     return 0;
